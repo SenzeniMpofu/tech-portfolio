@@ -15,7 +15,7 @@ const siteConfig = {
     title: 'Senzeni Mpofu', // Title for your website.
     tagline: 'Code. Food. Dance',
     profilePhoto: 'img/profile.png',
-    url: 'https://joatmon08.github.io', // Your website URL
+    url: 'https://senzenimpofu.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
     //   url: 'https://facebook.github.io',
@@ -67,8 +67,8 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: '',
-        twitter: '',
+        linkedin: 'https://www.linkedin.com/in/senzeni-mpofu/',
+        twitter: 'https://twitter.com/SenzeniMpofu',
         github: '',
     },
 
